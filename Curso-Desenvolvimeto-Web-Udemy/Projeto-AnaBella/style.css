@@ -1,0 +1,70 @@
+body {
+	background: #d2d2c1;
+	background-image: url(imagem/fundo.png);
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+	background-image: url(imagem/capa.png);
+	background-position: center;
+	background-size: cover;
+	height: 500px;
+}
+
+#menu {
+	width: 100%;
+	background: #c5c5b2;
+	padding: 18px;
+	font:  15px Arial, Helvetica, sans-serif;
+	font-style: color: grey;
+	text-align: center;
+}
+
+#conteudo {
+	background: #e8e8d9;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #4b566a;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.rodape {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: 1em;
+}
+
+#biografia{
+	background: #e8e8d9;
+	padding: 20px;
+	height: 100%;
+}
+
+#campanha {
+	background: #e8e8d9;
+	padding: 20px;
+	height: 100%;
+}
+
+.img-campanha {
+	display: block;
+ 	Margin: 0px auto;
+ 	margin-top: 50px;
+ 	margin-bottom: 40px;
+ 	border: 15px solid #c5c5b2;
+}
+
+#contato{
+	background: #e8e8d9;
+	padding: 20px;
+	height: 100%;
+}

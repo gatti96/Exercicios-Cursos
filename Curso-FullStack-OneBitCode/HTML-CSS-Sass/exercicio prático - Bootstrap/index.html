@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exercicio Bootstrap</title>
+    <!-- CSS Bootstrap -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+    <!-- Style CSS-->
+    <link rel="stylesheet" href="./css/style.css" />
+    <!--Favicon-->
+    <link
+      rel="shortcut icon"
+      href="./imagem/FAVICON-SPACEX.png"
+      type="image/x-icon"
+    />
+  </head>
+  <body class="py-5">
+    <div class="container px-4 container1">
+      <!-- Logo-->
+      <div class="text-center">
+        <img
+          class="img-fluid top-logo"
+          src="./imagem/logoOneBitDark.png"
+          alt="LPlogo"
+        />
+      </div>
+
+      <!--Primeira divisão do Form-->
+      <p class="paragraph">1 - Qual o seu nome?</p>
+      <div class="input-group mb-3">
+        <span class="input-group-text" id="basic-addon1">Primeiro Nome:</span>
+        <input
+          type="text"
+          class="form-control"
+          placeholder="Digite aqui"
+          aria-label="Username"
+          aria-describedby="basic-addon1"
+        />
+      </div>
+      <div class="input-group mb-3">
+        <span class="input-group-text" id="basic-addon1">Segundo Nome:</span>
+        <input
+          type="text"
+          class="form-control"
+          placeholder="Digite aqui"
+          aria-label="Username"
+          aria-describedby="basic-addon1"
+        />
+      </div>
+      <!-- Segunda parte formulário-->
+      <p class="mt-3 paragraph">2 - Qual o seu gênero?</p>
+      <div class="form-check">
+        <input
+          type="radio"
+          class="form-check-input"
+          name="flexRadioDefault"
+          id="flexRadioDefault1"
+        />
+        <label for="flexRadioDefault1" class="form-check-label">Homem</label>
+      </div>
+      <div class="form-check">
+        <input
+          type="radio"
+          class="form-check-input"
+          name="flexRadioDefault"
+          id="flexRadioDefault2"
+        />
+        <label for="flexRadioDefault2" class="form-check-label">Mulher</label>
+      </div>
+      <div class="form-check mb-2">
+        <input
+          type="radio"
+          class="form-check-input"
+          name="flexRadioDefault"
+          id="flexRadioDefault3"
+        />
+        <label for="flexRadioDefault3" class="form-check-label"
+          >Prefiro não informar</label
+        >
+      </div>
+
+      <!--Terceira divisão-->
+      <p class="mt-3 paragraph">3 - Marque os treinamentos que você fez</p>
+      <div class="form-check form-switch">
+        <input
+          type="checkbox"
+          role="switch"
+          class="form-check-input"
+          id="flexSwitchCheckDefault"
+        />
+        <label for="flexSwitchCheckDefault" class="form-check-label"
+          >Treinamento básico de astronauta</label
+        >
+      </div>
+      <div class="form-check form-switch">
+        <input
+          type="checkbox"
+          role="switch"
+          class="form-check-input"
+          id="flexSwitchCheckDefault"
+        />
+        <label for="flexSwitchCheckDefault" class="form-check-label"
+          >Treinamento fisico básico</label
+        >
+      </div>
+      <div class="form-check form-switch">
+        <input
+          type="checkbox"
+          role="switch"
+          class="form-check-input"
+          id="flexSwitchCheckDefault"
+        />
+        <label for="flexSwitchCheckDefault" class="form-check-label"
+          >Treinamento avançado de astronauta</label
+        >
+      </div>
+      <div class="form-check form-switch">
+        <input
+          type="checkbox"
+          role="switch"
+          class="form-check-input"
+          id="flexSwitchCheckDefault"
+        />
+        <label for="flexSwitchCheckDefault" class="form-check-label"
+          >Treinamento fisico intenso</label
+        >
+      </div>
+
+      <!--Quarta etapa formulário-->
+      <p class="mt-3 paragraph">4 - Quais são são qualidades?</p>
+      <div class="form-check form-check-inline">
+        <input
+          type="checkbox"
+          class="form-check-input"
+          id="inLineCheckBox2"
+          value="option1"
+        />
+        <label for="inLineCheckBox2" class="form-check-label">Proativo</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input
+          type="checkbox"
+          class="form-check-input"
+          id="inLineCheckBox2"
+          value="option2"
+        />
+        <label for="inLineCheckBox2" class="form-check-label">Resistente</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input
+          type="checkbox"
+          class="form-check-input"
+          id="inLineCheckBox2"
+          value="option3"
+        />
+        <label for="inLineCheckBox2" class="form-check-label"
+          >Não vomito fácil</label
+        >
+      </div>
+      <div class="form-check form-check-inline">
+        <input
+          type="checkbox"
+          class="form-check-input"
+          id="inLineCheckBox2"
+          value="option4"
+        />
+        <label for="inLineCheckBox2" class="form-check-label"
+          >Não temo marciano</label
+        >
+      </div>
+      <div class="form-check form-check-inline mb-3">
+        <input
+          type="checkbox"
+          class="form-check-input"
+          id="inLineCheckBox2"
+          value="option5"
+        />
+        <label for="inLineCheckBox2" class="form-check-label"
+          >Já vi todos os Star Wars</label
+        >
+      </div>
+
+      <!-- Quinta etapa-->
+      <div class="text-center">
+        <button class="btn btn-outline-danger btnSend" type="button">
+          Enviar
+        </button>
+      </div>
+    </div>
+
+    <div class="container text-center fotter">
+      <p>
+        Feito por Renan Gatti &copy; OneBitCode todos os direitos reservados -
+        2022
+      </p>
+    </div>
+    <!-- Script Bootstrap-->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
