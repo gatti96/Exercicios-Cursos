@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Send Email from JavaScrpit</title>
+  </head>
+  <body>
+    <h1>
+      
+      Enviar e-mail com https://formsubmit.co/
+    </h1>
+    <hr />
+    <form action="https://formsubmit.co/61e054950d892dc4d3fd156c48b734d8 "  method="POST" /> <!--No link no primeiro acesso coloca seu email, depois substitui pelo código recebido-->
+      <div>
+        <label for="name">Nome:</label>
+        <input type="text" name="name" id="name" placeholder="Digite seu nome" required />
+      </div>
+      <br />
+      <div>
+        <label for="email">E-mail:</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="Digite seu e-mail"
+          required
+        />
+      </div>
+      <br />
+      <div>
+        <textarea
+          name="message"
+          id="conteudo"
+          cols="30"
+          rows="10"
+          placeholder="Digite sua mensagem"
+          required
+        ></textarea>
+      </div>
+      <br />
+      <div>
+        <input type="submit" value="Enviar" />
+        <input type="hidden" name="_autoresponse" value="Obrigado pelo contato! Em breve irei te responder.">
+      </div>
+    </form>
+
+  </body>
+</html>
