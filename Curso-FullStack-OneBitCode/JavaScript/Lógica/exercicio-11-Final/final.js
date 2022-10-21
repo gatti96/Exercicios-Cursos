@@ -32,16 +32,20 @@ function mostrarVaga() {
   );
 }
 function mostrarVaga2() {
-  alert(
-    "Vaga: " +
-      vagas[indice - 1].nome +
-      "\nDescrição: " +
-      vagas[indice - 1].descricao +
-      "\nData limite: " +
-      vagas[indice - 1].limite +
-      "\nQuantidade de candidatos: " +
-      vagas[indice - 1].candidatos.length
-  );
+  if (indice - 1 > vagas.length) {
+    alert("Numero do indice errado");
+  } else {
+    alert(
+      "Vaga: " +
+        vagas[indice - 1].nome +
+        "\nDescrição: " +
+        vagas[indice - 1].descricao +
+        "\nData limite: " +
+        vagas[indice - 1].limite +
+        "\nQuantidade de candidatos: " +
+        vagas[indice - 1].candidatos.length
+    );
+  }
 }
 
 function incluirCandidato() {
@@ -73,6 +77,15 @@ function vagasDisponiveis() {
     );
   }
   contar = 0;
+}
+
+function excluirvaga() {
+  if (indice > 1) {
+    indice = indice - 2;
+  } else {
+    indice = 0;
+  }
+  vagas.splice(indice, 1);
 }
 
 do {
@@ -141,7 +154,18 @@ do {
       }
       break;
     case "5":
+      indice = 0;
+      indice = prompt("Qual o indice da vaga a ser excluída: ");
+      confirmacao = confirm("Deseja excluir essa vaga: \n" + mostrarVaga());
 
+      if (confirmacao == true) {
+        excluirvaga();
+      } else {
+        indice = 0;
+        alert("Cancelando exclusão da vaga");
+        alert("Retornando ao menu principal");
+      }
+      break;
     case "6":
       alert("Programa sendo encerrado!");
       break;
