@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Escalar Jogadores</title>
+  </head>
+  <style>
+    .escalar {
+      width: 500px;
+      padding: 10px;
+      margin-top: 50px;
+      border: 2px solid black;
+    }
+    .jogadores {
+      width: 500px;
+      padding: 10px;
+      margin-top: 50px;
+      border: 2px solid black;
+    }
+    .remover {
+      width: 500px;
+      padding: 10px;
+      margin-top: 50px;
+      border: 2px solid black;
+    }
+    .center {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: center;
+    }
+  </style>
+  <body>
+    <div class="center">
+      <div class="escalar">
+        <span>Escalar um jogador</span>
+        <br />
+        <label for="position">Informar posição do jogador:</label>
+        <input type="text" name="position" id="position" /> <br />
+        <label for="name">Nome do Jogador</label>
+        <input type="text" name="name" id="name" /> <br />
+        <label for="number">Camisa do Jogador:</label>
+        <input type="number" name="number" id="number" /><br />
+
+        <button onclick="escalar()">Escalar</button>
+      </div>
+      <div class="remover">
+        <span>Remover um jogador</span>
+        <br />
+        <label for="camisa">Camisa do Jogador:</label>
+        <input type="number" name="camisa" id="camisa" /><br />
+
+        <button onclick="remover()">Remover</button>
+      </div>
+      <div class="jogadores">
+        <span>Lista dos Jogadores:</span>
+        <section id="listaJogadores">
+          <div id="jogadores"></div>
+        </section>
+      </div>
+    </div>
+
+    <script src="./escalarJogadores.js"></script>
+  </body>
+</html>
