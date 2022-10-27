@@ -1,0 +1,15 @@
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\bin\Debug\net6.0\primeiro.exe
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\bin\Debug\net6.0\primeiro.deps.json
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\bin\Debug\net6.0\primeiro.runtimeconfig.json
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\bin\Debug\net6.0\primeiro.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\bin\Debug\net6.0\primeiro.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.AssemblyReference.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfo.cs
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\primeiro.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\refint\primeiro.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\primeiro.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\primeiro.genruntimeconfig.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\primeiro\primeiro\obj\Debug\net6.0\ref\primeiro.dll

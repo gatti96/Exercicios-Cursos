@@ -1,0 +1,15 @@
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\bin\Debug\net6.0\calculadora.exe
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\bin\Debug\net6.0\calculadora.deps.json
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\bin\Debug\net6.0\calculadora.runtimeconfig.json
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\bin\Debug\net6.0\calculadora.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\bin\Debug\net6.0\calculadora.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\calculadora.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\refint\calculadora.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\calculadora.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\calculadora\calculadora\obj\Debug\net6.0\ref\calculadora.dll

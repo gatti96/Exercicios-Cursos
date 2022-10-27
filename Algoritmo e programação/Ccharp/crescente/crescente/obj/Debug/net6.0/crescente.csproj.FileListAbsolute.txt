@@ -1,0 +1,15 @@
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\bin\Debug\net6.0\crescente.exe
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\bin\Debug\net6.0\crescente.deps.json
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\bin\Debug\net6.0\crescente.runtimeconfig.json
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\bin\Debug\net6.0\crescente.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\bin\Debug\net6.0\crescente.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\crescente.csproj.AssemblyReference.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\crescente.AssemblyInfoInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\crescente.AssemblyInfo.cs
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\crescente.csproj.CoreCompileInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\crescente.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\refint\crescente.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\crescente.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\crescente.genruntimeconfig.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\crescente\crescente\obj\Debug\net6.0\ref\crescente.dll

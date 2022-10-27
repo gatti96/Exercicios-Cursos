@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656982010 source:c:\users\renan gatti\desktop\algoritmo e programação\c\exercici\notas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

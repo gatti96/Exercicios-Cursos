@@ -1,0 +1,15 @@
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.exe
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.deps.json
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.runtimeconfig.json
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.AssemblyReference.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfoInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfo.cs
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\refint\soma_impares.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.genruntimeconfig.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\soma_impares\soma_impares\obj\Debug\net6.0\ref\soma_impares.dll

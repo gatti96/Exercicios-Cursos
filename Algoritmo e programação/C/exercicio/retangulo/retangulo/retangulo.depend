@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656779459 source:c:\users\renan gatti\desktop\algoritmo e programação\c\exercicio terreno\retangulo\retangulo\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

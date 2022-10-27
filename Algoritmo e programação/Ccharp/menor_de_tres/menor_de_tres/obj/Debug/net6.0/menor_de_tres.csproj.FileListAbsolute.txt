@@ -1,0 +1,15 @@
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.exe
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.deps.json
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.runtimeconfig.json
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.csproj.AssemblyReference.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.AssemblyInfo.cs
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\refint\menor_de_tres.dll
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.pdb
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.genruntimeconfig.cache
+C:\Users\Public\Algoritmo e programação\Ccharp\menor_de_tres\menor_de_tres\obj\Debug\net6.0\ref\menor_de_tres.dll
