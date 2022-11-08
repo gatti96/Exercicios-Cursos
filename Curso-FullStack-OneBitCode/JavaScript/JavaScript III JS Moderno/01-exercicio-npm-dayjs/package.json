@@ -1,0 +1,15 @@
+{
+  "name": "exercice-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "renan",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.6",
+    "readline-sync": "^1.4.10"
+  }
+}
