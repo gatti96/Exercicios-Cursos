@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Votação</title>
+  </head>
+  <body>
+    <div class="container">
+      <div><span>Bem vindo ao sistema de votação</span></div>
+      <div><label for="password">Senha de inicialização</label></div>
+      <div>
+        <input
+          type="password"
+          id="password"
+          name="password"
+          placeholder="Digite a senha"
+          required
+        />
+      </div>
+      <div><button type="submit">Iniciar</button></div>
+    </div>
+    <div class="container">
+      <div><p>Você concorda com o tema proposto?</p></div>
+      <div>
+        <button class="yes">SIM</button><button class="not">NÃO</button
+        ><button class="nule">NULO</button>
+      </div>
+      <div><input type="text" disabled /></div>
+      <div><button>Encerrar votação</button></div>
+      <div>
+        <input
+          type="password"
+          id="senha"
+          name="senha"
+          placeholder="Digite a senha"
+          required
+        />
+        <button class="theEnd">Encerrar</button>
+      </div>
+    </div>
+
+    <div class="container">
+      <div><span>Resultados</span></div>
+      <textarea
+        name="result"
+        id="result"
+        cols="70"
+        rows="20"
+        disabled
+      ></textarea>
+    </div>
+  </body>
+</html>
