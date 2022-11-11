@@ -34,3 +34,18 @@ body {
 textarea {
   margin-bottom: 50px;
 }
+
+.item2 {
+  display: none;
+}
+
+.item3 {
+  display: none;
+  width: 50%;
+}
+
+#confirm {
+  align-items: center;
+  width: 150px;
+  margin-top: 45px;
+}
