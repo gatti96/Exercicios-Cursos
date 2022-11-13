@@ -44,6 +44,10 @@ textarea {
   width: 50%;
 }
 
+.item4 {
+  display: none;
+}
+
 #confirm {
   align-items: center;
   width: 300px;
