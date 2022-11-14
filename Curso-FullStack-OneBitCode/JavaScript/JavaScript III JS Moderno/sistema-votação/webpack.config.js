@@ -19,20 +19,9 @@ module.exports = {
       },
       {
         test: /\.js$/,
-        exclude: /node_modules/,
-        use: "babel-loader",
+        use: ["babel-loader"],
       },
     ],
   },
-  plugins: [
-    new MiniCssExtractPlugin(),
-    new HtmlWebpackPlugin({
-      title: "Sistema votação",
-      hash: true,
-      cache: true,
-      filename: "index.html",
-      template: "./src/index.html",
-      chunks: ["home"],
-    }),
-  ],
+  plugins: [new MiniCssExtractPlugin()],
 };

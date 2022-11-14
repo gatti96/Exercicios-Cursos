@@ -1,3 +1,5 @@
+import "./style/style.css";
+
 const password = "123";
 let yes = 0;
 let not = 0;
