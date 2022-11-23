@@ -1,5 +1,5 @@
 export class Mage {
-  constructorconstructor(name, life, atack, defense, mage) {
+  constructor(name, life, atack, defense, mage) {
     this.name = name;
     this.life = life;
     this.atack = atack;
