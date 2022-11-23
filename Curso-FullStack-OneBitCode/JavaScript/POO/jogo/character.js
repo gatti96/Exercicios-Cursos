@@ -6,7 +6,8 @@ export class Character {
     this.defense = defense;
   }
 
-  atack(alvo) {
-    alvo.life = alvo.life - (this.atack - alvo.defense);
+  atacar(targetCharacter) {
+    targetCharacter.life =
+      targetCharacter.life - (this.atack - targetCharacter.defense);
   }
 }

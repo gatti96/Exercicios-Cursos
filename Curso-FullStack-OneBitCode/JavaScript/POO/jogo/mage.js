@@ -1,19 +1,19 @@
-export class Mage {
+import { Character } from "./character.js";
+
+export class Mage extends Character {
   constructor(name, life, atack, defense, mage) {
-    this.name = name;
-    this.life = life;
-    this.atack = atack;
-    this.defense = defense;
+    super(name, life, atack, defense);
     this.mage = mage;
   }
 
-  atack(alvo) {
+  atacar(targetCharacter) {
     const atack = this.atack + this.mage;
-    alvo.life = alvo.life - (atack - alvo.defense);
+    targetCharacter.life =
+      targetCharacter.life - (atack - targetCharacter.defense);
   }
 
-  life(alvo) {
+  vida(targetCharacter) {
     const life = 2 * this.mage;
-    alvo.life = alvo.life + life;
+    targetCharacter.life = targetCharacter.life + life;
   }
 }

@@ -1,12 +1,8 @@
-export class Thief {
-  constructor(name, life, atack, defense) {
-    this.name = name;
-    this.life = life;
-    this.atack = atack;
-    this.defense = defense;
-  }
-  atack(alvo) {
-    const atack = (this.atack - alvo.defense) * 2;
-    alvo.life = alvo.life - atack;
+import { Character } from "./character.js";
+
+export class Thief extends Character {
+  atacar(targetCharacter) {
+    const atack = (this.atack - targetCharacter.defense) * 2;
+    targetCharacter.life = targetCharacter.life - atack;
   }
 }

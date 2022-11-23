@@ -1,16 +1,16 @@
-export class Warrior {
+import { Character } from "./character.js";
+
+export class Warrior extends Character {
   constructor(name, life, atack, defense, shieldPoints, position) {
-    this.name = name;
-    this.life = life;
-    this.atack = atack;
-    this.defense = defense + shieldPoints;
+    super(name, life, atack, defense);
     this.shieldPoints = shieldPoints;
     this.position = position;
   }
 
-  atack(alvo) {
+  atacar(targetCharacter) {
     if (this.position === "ataque") {
-      alvo.life = alvo.life - (this.atack - alvo.defense);
+      targetCharacter.life =
+        targetCharacter.life - (this.atack - targetCharacter.defense);
     } else {
       console.log(`Código invalido`);
     }
@@ -19,8 +19,10 @@ export class Warrior {
   switch() {
     if (this.position === "ataque") {
       this.position = "defesa";
+      this.defense += this.shieldPoints;
     } else {
       this.position = "ataque";
+      this.defense -= this.shieldPoints;
     }
   }
 }

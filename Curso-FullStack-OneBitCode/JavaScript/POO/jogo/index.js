@@ -16,7 +16,13 @@ console.log(thief);
 console.log(warrior);
 console.log(character);
 
-warrior.switch();
-warrior.switch();
+//warrior.switch();
 
-mage.atack(character);
+mage.atacar(character);
+console.log(character);
+
+mage.vida(character);
+console.log(character);
+
+character.atacar(warrior);
+console.log(warrior);
