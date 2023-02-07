@@ -4,7 +4,7 @@ import DescriptionWithLink from "../../description-with-link/index.js";
 const Planet = (props) => {
   return (
     <>
-      <div>
+      <div onClick={props.clickOnPlanet}>
         <h4>{props.name}</h4>
         <DescriptionWithLink
           description={props.description}
