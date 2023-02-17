@@ -1,18 +1,27 @@
 import React from "react";
 import DescriptionWithLink from "../../description-with-link/index.js";
 
-const Planet = (props) => {
-  return (
-    <>
-      <div onClick={props.clickOnPlanet}>
-        <h4>{props.name}</h4>
-        <DescriptionWithLink
-          description={props.description}
-          link={props.link}
-        />
-      </div>
-    </>
-  );
-};
+class Planet extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      satellites: [],
+    };
+  }
+
+  render() {
+    return (
+      <>
+        <div onClick={this.props.clickOnPlanet}>
+          <h4>{this.props.name}</h4>
+          <DescriptionWithLink
+            description={this.props.description}
+            link={this.props.link}
+          />
+        </div>
+      </>
+    );
+  }
+}
 
 export default Planet;

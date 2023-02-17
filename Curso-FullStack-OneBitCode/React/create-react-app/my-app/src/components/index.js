@@ -1,4 +1,3 @@
-import cli from "npm/lib/cli";
 import React, { Fragment } from "react";
 import Planet from "./planets/planets";
 
